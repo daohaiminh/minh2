@@ -1,0 +1,12 @@
+p{
+    font-size: 40px;
+}
+a:hover {
+    color: red;
+}
+samp>a{
+    color: red;
+}
+samp>a:hover{
+    color: black;
+}
